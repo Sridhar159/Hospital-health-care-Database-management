@@ -20,13 +20,20 @@ Explore real-time insights into medicine instock details through a PowerBI dashb
 
 ## Tools Used
 PostgreSQL: Utilized for the relational database management system.
+
 DB Schema: Employed for data modeling and database design.
+
 PowerBI: Leveraged for creating interactive dashboards and reports.
+
 Lucid Chart: Utilized for visualizing data models and system architecture.
 
 ## Skills Learned
 Data Modeling: Understanding and designing efficient database schemas.
+
 Server-Side Code: Implementing backend logic and business rules.
+
 ETL Process: Extracting, transforming, and loading data for analysis.
+
 NoSQL Structure in MongoDB: Exploring non-relational data storage and querying.
+
 Snowflake Concepts: Understanding snowflake schema design for data warehousing.
